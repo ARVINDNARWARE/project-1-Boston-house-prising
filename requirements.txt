@@ -4,3 +4,4 @@ sklearn
 matplotlib
 pandas
 numpy
+gunicorn
